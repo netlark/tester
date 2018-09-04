@@ -1,3 +1,4 @@
 <?php
 
+// good
 echo phpinfo();
