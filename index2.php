@@ -2,5 +2,5 @@
 
 // good
 // more
-// name
+// name2
 echo phpinfo();
